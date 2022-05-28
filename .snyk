@@ -82,3 +82,8 @@ patch:
   'npm:marked:20170112':
     - gitter-sidecar > marked:
         patched: '2017-02-07T13:09:15.245Z'
+  'npm:ms:20170412':
+    - compression > debug > ms:
+        patched: '2017-05-23T00:27:15.546Z'
+    - morgan > debug > ms:
+        patched: '2017-05-23T00:27:15.546Z'
